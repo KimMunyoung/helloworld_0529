@@ -1,2 +1,2 @@
 hello world!
-adfksjfjafklj
+print("Hello")
